@@ -1,3 +1,11 @@
 body {
-background-color: black
+    background-color: #F7A3B1
+}
+
+h1 {
+    text-align: center; font-size: 60px; color: #C2465A;
+}
+
+p {
+    text-align: justify; color: #752A37; font-size: 35px
 }
