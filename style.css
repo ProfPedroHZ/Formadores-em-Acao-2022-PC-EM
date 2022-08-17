@@ -1,15 +1,49 @@
 body {
-    background-color: #F7A3B1
+  background-color: #f7a3b1;
 }
 
 h1 {
-    text-align: center; font-size: 60px; color: #C2465A;
+  text-align: center;
+  font-size: 60px;
+  color: #bd344b;
 }
 
 p {
-    text-align: justify; color: #752A37; font-size: 35px
+  text-align: justify;
+  color: #752a37;
+  font-size: 35px;
+}
+
+.paragrafo-centro {
+  text-align: center;
 }
 
 h2 {
-    text-align: left; font-size: 60px; color: #C2465A;
+  text-align: center;
+  font-size: 45px;
+  color: #bd344b;
+}
+
+#amor-matematica {
+  width: 90%;
+  margin-left: 45px;
+  border: 20px solid #752a37;
+}
+
+h3 {
+  text-align: center;
+  font-size: 40px;
+  color: #bd344b;
+}
+
+.comunidade {
+  color: #752a37;
+}
+
+.nomes {
+  font-size: 30px;
+}
+
+.veja-tambem {
+  display: inline-block;
 }
